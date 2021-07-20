@@ -20,15 +20,15 @@ ChartView {
 
     ValueAxis {
         id: axisX
-        min: 0
-        max: 10
+//        min: 0
+//        max: 10
         tickCount: 5
     }
 
     ValueAxis {
         id: axisY
-        min: -0.5
-        max: 1.5
+//        min: -0.5
+//        max: 1.5
     }
 
     LineSeries {
